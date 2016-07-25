@@ -1,0 +1,23 @@
+{
+  "name": "facebook-review",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "cheerio": "^0.18.0",
+    "cookie-parser": "~1.4.3",
+    "express": "~4.13.4",
+    "file-stream-rotator": "0.0.6",
+    "jquery": "^3.1.0",
+    "lodash": "^4.13.1",
+    "moment": "^2.14.1",
+    "morgan": "~1.7.0",
+    "node-cache": "^3.2.1",
+    "phantom": "^2.1.12",
+    "querystring": "^0.2.0",
+    "request": "~2.73.0"
+  }
+}
